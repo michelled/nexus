@@ -67,4 +67,3 @@ Finally, stop Nexus with:
 $ vagrant halt
 ```
 
-test
